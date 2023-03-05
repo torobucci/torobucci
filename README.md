@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Toro nice to meet you.
 
 # 💫 About Me:
-I'm currently working on <br>I'm currently a student at Microverse.<br>I enjoy problem-solving using DSA at Hackerrank 
 - 🔭 I’m currently working on building simple apps using HTML, CSS, and JavaScript.
 - 🌱 I’m currently learning full-stack development on React,Bootstrap,Ruby and Ruby on Rails
 - 👯 I’m looking to collaborate on building front web applications.
